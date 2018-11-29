@@ -5,7 +5,7 @@ import 'dart:io';
 
 class DetailWidget extends StatefulWidget  {
 
-  String _filePath;
+  final String _filePath;
   DetailWidget(this._filePath);
 
   @override

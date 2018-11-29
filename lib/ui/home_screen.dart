@@ -8,10 +8,6 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(
-          centerTitle: true,
-          title: Text('JScanner'),
-        ),
         body: Center(
             child:
               Column(
@@ -30,6 +26,7 @@ class HomeScreen extends StatelessWidget {
                               MaterialPageRoute(builder: (context) => ScanScreen()),
                             );
                           },
+
                           child: const Text('SCAN QR CODE')
                       ),
                     ),

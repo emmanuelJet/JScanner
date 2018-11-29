@@ -1,5 +1,5 @@
+import 'package:bscanner/ui/splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:bscanner/ui/home_screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.lightBlue,
       ),
-      home: HomeScreen(),
+      home: SplashScreen(),
     );
   }
 }
