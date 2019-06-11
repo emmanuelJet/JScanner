@@ -1,6 +1,6 @@
 # JScanner
 
-JScanner is an app that **scan** and **generate** barcode for security purpose. JScanner was written with **Flutter** (Cross-Mobile Platform Development Kit) and compiled in **Kotlin**. This is a project built for the purpose of Hack With Kotlin 2018 organized by Android Nigeria Community, Ekiti State . Get The **APK** on [Google Drive](https://drive.google.com/open?id=1qFi0NkM3-16NfqXK7cWKVfqO07y11IRD)
+JScanner is an app that **scan** and **generate** barcode for security purpose. JScanner was written with **Flutter** (Cross-Mobile Platform Development Kit) and compiled in **Kotlin**. Get The **APK** on [Google Drive](https://drive.google.com/open?id=1qFi0NkM3-16NfqXK7cWKVfqO07y11IRD)
 
 ## Features
 
